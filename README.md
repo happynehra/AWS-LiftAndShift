@@ -33,7 +33,7 @@
 4. S3/EFS Storage. 
 5. Route 53. 
 
-![image](image/image.png)
+![image](images/image.png)
 
 
 
