@@ -26,6 +26,14 @@
 4. Automation. 
 5. Ease of Infra Management.  
 
+# Serives Used 
+1. Ec2 Instances for Tomcat, RabbitMq, Memchache, Mysql. 
+2. ELB (Load Balancer).
+3. Autoscaling. 
+4. S3/EFS Storage. 
+5. Route 53. 
+
+
 
 
 
