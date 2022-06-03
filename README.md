@@ -27,7 +27,7 @@
 5. Ease of Infra Management.  
 
 # Serives Used 
-1. Ec2 Instances for Tomcat, RabbitMq, Memchache, Mysql. 
+1. Ec2 Instances for Tomcat, RabbitMq, Memcache, Mysql. 
 2. ELB (Load Balancer).
 3. Autoscaling. 
 4. S3/EFS Storage. 
