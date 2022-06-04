@@ -2,13 +2,13 @@
 1. Login to AWS Account.  
 2. Created Key Pairs. 
 3. Created Security groups. 
-4. Launched Instance with user data (Bash Script). 
+4. Launched Instances with user data (Bash Script). 
 5. Updated IP to name mapping in route 53. 
 6. Build Application from source code. 
 7. Uploaded to S3 bucket. 
 8. Downloaded artifact to Tomcat Ec2 Instance. 
 9. Setup ELB with HTTPS (Certificate from Amazon Certificate Manager). 
-10. Maped ELB Endpoint to website name in Godaddy DNS. 
+10. Maped ELB Endpoint to the website name in Godaddy DNS. 
 11. Verify. 
 
 # Problems fixed in this project
